@@ -1,0 +1,162 @@
+html {
+     font: 16px;
+	font-family: sans-serif;
+	color: #6B7371;
+	justify-content: center;
+     overflow-x: hidden;	
+}
+
+
+body {
+     width: 100%;
+
+     background: url('imagens/plano-fundo.jpg');
+     margin-top: 100px;
+}
+
+#container {
+
+     width: 1000px;
+     margin: 0 auto;
+}
+
+
+nav.nav-trans {
+     
+     background: rgba(88,90,98,0.8);
+}
+
+
+h1 {
+     color:  #000000 ; 
+     text-align: center;
+
+}
+
+h2 {
+     color: #000000 ;
+
+}
+
+#letras-nav {
+
+     color: #000000;
+}
+
+.navbar-light .navbar-toggler {
+
+     color: rgba( 0, 0, 0, 0.5);
+     border-color:  white   ;
+}
+
+#topo {
+
+     font-size: 1.5em;
+}
+
+
+
+div.carousel-caption h2 {
+
+          font-size: 3em;
+          background: #06688D;
+          border-radius: 25px;
+          border: black 10px ridge ;
+          padding: 20px;
+          opacity: 0.7;
+      }
+
+#conteudo {
+         background: #000000; 
+         margin-top: 20px;
+
+     }
+
+#centro {
+               
+          width: 1000px;
+          float: left;
+          background-color: #000000; 
+          margin: 20px 0 20px 0px;
+          padding-top: 20px;
+          text-align: center;
+          }
+
+#rodape1 {
+               
+                
+         float: left;
+               
+           }
+
+#rodape2 {
+               
+          float: right;     
+     
+          }
+
+#rodape0 {
+               
+          float: left;
+          margin-left: 150px;     
+     
+          }
+
+#rodape {
+          width: 1000px;
+          background: #656975;
+          
+      }
+
+      #inicio {
+
+         /*background: url('imagens/bg-9.jpg') ; */
+           
+          margin-right: -20px;
+          text-align: center;
+
+      }
+
+h3  {
+
+          color: #B5B8C3;
+
+
+      }
+
+h4,h5 {
+
+          color: #4E5B5B;
+      }
+
+ a {
+
+            color: #000000;
+            text-decoration: none;
+            
+
+          }
+
+a#tag {
+            color: #2C52DB;
+          
+          }
+
+a:hover {
+
+            color: #2C52DB;
+
+      }
+
+#limpar {
+
+          clear: both;
+      }
+
+footer {
+
+          clear: both;
+      }
+
+
+
